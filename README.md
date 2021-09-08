@@ -1,7 +1,7 @@
 # Pick Your Poison
 ## Drink Recommendation Generator
 
-[Click Here to access Pick Your Poison](https://joeltbenson.github.io/PickYourPoison/)
+[Click Here to access Pick Your Poison](https://mikeyhauser.github.io/Pick-Your-Poison/)
 
 The idea of **Pick Your Poison** is simple - to provide a quick drink recommendation and recipe based on your local weather. This web-based application combines the basic aesthetic elements of HTML and CSS, and employs Javascript to pair the local weather and with a drink recommendation and its corresponding recipe. 
 
